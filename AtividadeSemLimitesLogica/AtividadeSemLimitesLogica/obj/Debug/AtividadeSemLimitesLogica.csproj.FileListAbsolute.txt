@@ -1,0 +1,7 @@
+D:\Atalhos Area de trabalho\scripts\Csharp Linguagem\ConsoleC#\AtividadeSemLimitesLogica\AtividadeSemLimitesLogica\obj\Debug\AtividadeSemLimitesLogica.csproj.AssemblyReference.cache
+D:\Atalhos Area de trabalho\scripts\Csharp Linguagem\ConsoleC#\AtividadeSemLimitesLogica\AtividadeSemLimitesLogica\obj\Debug\AtividadeSemLimitesLogica.csproj.CoreCompileInputs.cache
+D:\Atalhos Area de trabalho\scripts\Csharp Linguagem\ConsoleC#\AtividadeSemLimitesLogica\AtividadeSemLimitesLogica\bin\Debug\AtividadeSemLimitesLogica.exe.config
+D:\Atalhos Area de trabalho\scripts\Csharp Linguagem\ConsoleC#\AtividadeSemLimitesLogica\AtividadeSemLimitesLogica\bin\Debug\AtividadeSemLimitesLogica.exe
+D:\Atalhos Area de trabalho\scripts\Csharp Linguagem\ConsoleC#\AtividadeSemLimitesLogica\AtividadeSemLimitesLogica\bin\Debug\AtividadeSemLimitesLogica.pdb
+D:\Atalhos Area de trabalho\scripts\Csharp Linguagem\ConsoleC#\AtividadeSemLimitesLogica\AtividadeSemLimitesLogica\obj\Debug\AtividadeSemLimitesLogica.exe
+D:\Atalhos Area de trabalho\scripts\Csharp Linguagem\ConsoleC#\AtividadeSemLimitesLogica\AtividadeSemLimitesLogica\obj\Debug\AtividadeSemLimitesLogica.pdb
